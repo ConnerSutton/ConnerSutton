@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConnerSutton
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning winapi
+- 💞️ I’m looking to collaborate on winapi projects
+- 📫 How to reach me conner.s.sutton@gmail.com
